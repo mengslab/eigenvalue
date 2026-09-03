@@ -438,7 +438,7 @@ It is intended as a foundation for future versions that may include expanded sta
 If you use this software in a manuscript or presentation, please cite the repository:
 
 ```text
-Meng H. eigenvalue_analysis_app_v14_4_1: a framework for biological time-series rhythm analysis and oscillatory signal decomposition. GitHub. 2026.
+Meng H. Eigenvalue analysis: a framework for biological time-series rhythm analysis and oscillatory signal decomposition. GitHub. 2026.
 ```
 
 For future IDRhythms-based versions, use the appropriate updated repository citation.
